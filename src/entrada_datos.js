@@ -1,3 +1,3 @@
-nombre = prompt("Introduce tu nombre")
+nombre = prompt("Introduce tu nombre");
 
-document.write("Bienvenid@ " + nombre)
+document.write("Bienvenid@ " + nombre);
