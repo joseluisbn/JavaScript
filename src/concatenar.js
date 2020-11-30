@@ -1,4 +1,4 @@
-//Contatenamos números en js como si se tratara de strings utilizando comillas al comienzo de la concatenación
+//Concatenamos números en js como si se tratara de strings utilizando comillas al comienzo de la concatenación
 
 num1 = 4
 num2 = 3
